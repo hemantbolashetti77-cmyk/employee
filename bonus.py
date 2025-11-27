@@ -4,8 +4,8 @@ if len(sys.argv) != 5:
     print("Usage: python student.py <name> <roll>")
     sys.exit(1)
 
- script_name = sys.argv[0]
- salary = sys.argv[1]
+  script_name = sys.argv[0]
+  salary = sys.argv[1]
 else:
   script_name = sys.argv[0]
  salary = 15000
