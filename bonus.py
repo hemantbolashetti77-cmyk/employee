@@ -10,5 +10,5 @@ else:
 bamount=salary*0.10
 bonus=salary+bamount
 print("Bonus amount:",bamount)
-print("total Amount:",bonus
+print("total Amount:",bonus)
  
